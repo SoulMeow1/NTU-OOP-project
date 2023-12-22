@@ -1,6 +1,7 @@
 # Main contributions to this project:
 
-Programmed the overall structure of the project in its infancy. Then contributed a lot in the student class. 
+Drawn the class diagram
+Programmed the overall structure of the project in its infancy. Then programmed the majority of the User class, Student class, StudComm class and Staff class. 
 
 ## Features of the project:
 
